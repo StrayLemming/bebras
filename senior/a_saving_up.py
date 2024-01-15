@@ -1,5 +1,4 @@
 '''
-Saving UpReview mode
 Kaleisha, a student, works at a coffee shop and is trying to save her earnings to buy an e-bike.
 She spends £20 a day on food and bus fares.
 She wants to find out if she will be able to buy an e-bike after 10 days of working.

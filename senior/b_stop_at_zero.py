@@ -1,5 +1,5 @@
 '''
- program is required to output a simple horizontal graph. Data is sent to the program as a stream of integers. Each new integer is less than the previous one. The graphical output is only required for the positive data. 
+A program is required to output a simple horizontal graph. Data is sent to the program as a stream of integers. Each new integer is less than the previous one. The graphical output is only required for the positive data. 
 
 The formatting of the graph consists of a number of dashes on each horizontal line corresponding to the integer being represented on that line of the graph.
 
